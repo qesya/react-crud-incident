@@ -1,0 +1,11 @@
+body {
+  background-color: #f2f2f2;
+}
+.incident-card {
+  width: 300px;
+  padding: 10px;
+  box-shadow: 1px 1px 10px silver;
+  border-radius: 5px;
+  display: block;
+  margin: 0 auto;
+}
